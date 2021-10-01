@@ -11,7 +11,7 @@ Gathers various python code fragments that can be used in different projects
 * Then fork this repository.
 * In the forked repository, select the topic folder where you want to add the program.
 * If you can't find the folder create the folder and  then add your program.
-* Make your pull request after adding the program 
+* Make your pull request after adding the program and mention the issue you opened with fix #issue_number
 * Wait for review.
 
 After reviewing your code if there are no changes required then your pull request will be accepted.<br>
