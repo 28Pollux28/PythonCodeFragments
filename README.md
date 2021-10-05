@@ -23,4 +23,4 @@ After reviewing your code if there are no changes required then your pull reques
 You can also contribute to this repository by improving documention or any mistakes/errors <br>
 
 # About
-This repository provides python code fragments anyone can use.
+This repository provides python code fragments anyone can use anytime.
