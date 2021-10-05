@@ -2,6 +2,9 @@
 Gathers various python code fragments that can be useful in different projects.
 Feel free to contribute and use the programs in this repository !
 
+Everything is opensource and free to use !
+
+
 
 ### How to contribute <br>
 
