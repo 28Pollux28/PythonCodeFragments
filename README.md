@@ -21,3 +21,6 @@ Everything is opensource and free to use !
 After reviewing your code if there are no changes required then your pull request will be accepted.<br>
 
 You can also contribute to this repository by improving documention or any mistakes/errors <br>
+
+# About
+This repository provides python code fragments anyone can use.
